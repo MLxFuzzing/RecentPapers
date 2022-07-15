@@ -31,11 +31,14 @@
 11. [NEUZZ: Efficient Fuzzing with Neural Program Smoothing](https://arxiv.org/abs/1807.05620)
 12. [BanditFuzz: Fuzzing SMT Solvers with Multi-agent Reinforcement Learning](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15753/BFuzz_CAV__Copy_.pdf?sequence=1&isAllowed=y)
 
-Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer
+## 2020
+1. [Pythia: Grammar-based fuzzing of REST APIs with coverage-guided feedback and learning-based mutations](https://arxiv.org/pdf/2005.11498)
+2. [Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer](https://www.usenix.org/conference/usenixsecurity20/presentation/lee-suyoung)
+3. [LAFuzz: Neural Network for Efficient Fuzzing](https://ieeexplore.ieee.org/document/9288180)
+4. [DSmith: Compiler Fuzzing through Generative Deep Learning Model with Attention](https://ieeexplore.ieee.org/document/9206911)
+5. [Tree2tree Structural Language Modeling for Compiler Fuzzing](https://link.springer.com/chapter/10.1007/978-3-030-60245-1_38)
+6. [A Flexible Framework for Expediting Bug Finding by Leveraging Past (Mis-)Behavior to Discover New Bugs](https://www3.cs.stonybrook.edu/~mikepo/papers/omnifuzz.acsac20.pdf)
 FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning
-
-A Flexible Framework for Expediting Bug Finding by Leveraging Past (Mis-)Behavior to Discover New Bugs
-
 EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial Multi-Armed Bandit
 Learning-Guided Network Fuzzing for Testing Cyber-Physical System Defences
 MTFuzz: fuzzing with a multi-task neural network
@@ -51,13 +54,10 @@ Better Pay Attention Whilst Fuzzing
 Android {SmartTVs} Vulnerability Discovery via {Log-Guided} Fuzzing
 V-Fuzz: Vulnerability Prediction-Assisted Evolutionary Fuzzing for Binary Programs
 Format-aware learn&fuzz: deep test data generation for efficient fuzzing
-DSmith: Compiler Fuzzing through Generative Deep Learning Model with Attention
 
-Tree2tree Structural Language Modeling for Compiler Fuzzing
+
 RiverFuzzRL - an open-source tool to experiment with reinforcement learning for fuzzing
-Pythia: Grammar-based fuzzing of REST APIs with coverage-guided feedback and learning-based mutations
+
 ALPHAPROG: Reinforcement Generation of Valid Programs for Compiler Fuzzing
-LAFuzz: Neural Network for Efficient Fuzzing
 ICPFuzzer: proprietary communication protocol fuzzing by using machine learning and feedback strategies
 MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing
-
