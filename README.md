@@ -18,45 +18,46 @@
 9. [FuzzerGym: A Competitive Framework for Fuzzing and Learning](https://arxiv.org/abs/1807.07490)
 
 ## 2019
-5. [NeuFuzz: Efficient Fuzzing With Deep Neural Network](https://wcventure.github.io/FuzzingPaper/Paper/Access19_NeuFuzz%20.pdf)
-Deepfuzz: Automatic generation of syntax valid c programs for fuzz testing
+1. [REINAM: reinforcement learning for input-grammar inference](https://taoxie.cs.illinois.edu/publications/esecfse19-reinam.pdf)
+2. [SeqFuzzer: An Industrial Protocol Fuzzing Framework from a Deep Learning Perspective](https://wcventure.github.io/FuzzingPaper/Paper/ICST19_SeqFuzzer.pdf)
+3. [Learning-guided net-work fuzzing for testing cyber-physical system defences](https://arxiv.org/abs/1909.05410)
+4. [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf)
+5. [Recurrent Neural Networks for Fuzz Testing Web Browsers](https://arxiv.org/abs/1812.04852)
+6. [Deepfuzz: Automatic generation of syntax valid c programs for fuzz testing](https://faculty.ist.psu.edu/wu/papers/DeepFuzz.pdf)
+7. [Leveraging Textual Specifications for Grammar-Based Fuzzing of Network Protocols](https://arxiv.org/abs/1810.04755)
+8. [An Intelligent Fuzzing Data Generation Method Based on Deep Adversarial Learning](https://ieeexplore.ieee.org/ielx7/6287639/8600701/08691434.pdf)
+9. [NeuFuzz: Efficient Fuzzing With Deep Neural Network](https://wcventure.github.io/FuzzingPaper/Paper/Access19_NeuFuzz%20.pdf)
+10. [Suzzer: A Vulnerability-Guided Fuzzer Based on Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-42921-8_8)
+11. [NEUZZ: Efficient Fuzzing with Neural Program Smoothing](https://arxiv.org/abs/1807.05620)
+12. [BanditFuzz: Fuzzing SMT Solvers with Multi-agent Reinforcement Learning](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15753/BFuzz_CAV__Copy_.pdf?sequence=1&isAllowed=y)
+
 Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer
 FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning
-NEUZZ: Efficient Fuzzing with Neural Program Smoothing
+
 A Flexible Framework for Expediting Bug Finding by Leveraging Past (Mis-)Behavior to Discover New Bugs
 
 EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial Multi-Armed Bandit
-Learning to Fuzz from Symbolic Execution with Application to Smart Contracts
-
-
-
 Learning-Guided Network Fuzzing for Testing Cyber-Physical System Defences
 MTFuzz: fuzzing with a multi-task neural network
 CrFuzz: Fuzzing Multi-purpose Programs through Input Validation
-BanditFuzz: Fuzzing SMT Solvers with Multi-agent Reinforcement Learning
+
 SyzVegas: Beating Kernel Fuzzing Odds with Reinforcement Learning
 
 Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing
 
-REINAM: reinforcement learning for input-grammar inference
 Evaluating and Improving Neural Program-Smoothing-based Fuzzing
 Better Pay Attention Whilst Fuzzing
 
 Android {SmartTVs} Vulnerability Discovery via {Log-Guided} Fuzzing
 V-Fuzz: Vulnerability Prediction-Assisted Evolutionary Fuzzing for Binary Programs
-
-An Intelligent Fuzzing Data Generation Method Based on Deep Adversarial Learning
 Format-aware learn&fuzz: deep test data generation for efficient fuzzing
 DSmith: Compiler Fuzzing through Generative Deep Learning Model with Attention
-Suzzer: A Vulnerability-Guided Fuzzer Based on Deep Learning
+
 Tree2tree Structural Language Modeling for Compiler Fuzzing
 RiverFuzzRL - an open-source tool to experiment with reinforcement learning for fuzzing
 Pythia: Grammar-based fuzzing of REST APIs with coverage-guided feedback and learning-based mutations
 ALPHAPROG: Reinforcement Generation of Valid Programs for Compiler Fuzzing
 LAFuzz: Neural Network for Efficient Fuzzing
 ICPFuzzer: proprietary communication protocol fuzzing by using machine learning and feedback strategies
-Linux Kernel System Call Fuzzing
-SeqFuzzer: An Industrial Protocol Fuzzing Framework from a Deep Learning Perspective
-Recurrent Neural Networks for Fuzz Testing Web Browsers
 MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing
-Leveraging Textual Specifications for Grammar-Based Fuzzing of Network Protocols
+
